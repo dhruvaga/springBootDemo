@@ -1,7 +1,5 @@
 package com.spring.controller;
 
-import com.fasterxml.jackson.annotation.JsonView;
-import com.spring.Views;
 import com.spring.model.Customer;
 import com.spring.repository.CustomerRepository;
 import com.spring.service.CustomerService;
